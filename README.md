@@ -9,6 +9,10 @@
 - 🌱 I’m currently learning ![GO](https://img.shields.io/badge/-Go-F8EBD8?logo=Go)
 - 💞️ I’m looking to collaborate on any machine learning application (NLP or CV)!
 - 📫 How to reach me: austenpsy@gmail.com
+- 🛡️ Avid reader, fantasy and Sci-Fi geek
+- 🔬 Solid backgroud in Psychological Science, Statistics, and Computer Science
+- 💚 Mental health awareness!
+- 🐉 Change the world!
 
 <!---
 hc-psy/hc-psy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
