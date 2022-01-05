@@ -1,8 +1,11 @@
 ## :coffee: I'm Hao-Cheng and I turn coffee into code :coffee:
 
-![](https://komarev.com/ghpvc/?username=hc-psy)
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" />
+
+![](https://komarev.com/ghpvc/?username=hc-psy)
+
+
 
 - 👋 Hi, I’m @hc-psy (Hao-Cheng Ollie Lo)
 - 👀 I’m interested in machine learning
