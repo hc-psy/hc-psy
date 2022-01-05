@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=hc-psy)
 
-<img align="right" alt="GIF" src="https://www.reddit.com/r/CatGifs/comments/640py3/meet_the_new_it_guy_xpost_raww/?st=j180my0k&sh=2230295e" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" />
 
 - 👋 Hi, I’m @hc-psy (Hao-Cheng Ollie Lo)
 - 👀 I’m interested in machine learning
