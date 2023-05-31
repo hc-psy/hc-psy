@@ -5,17 +5,15 @@
 
 ![](https://komarev.com/ghpvc/?username=hc-psy)
 
+<a href="https://www.buymeacoffee.com/ryvn"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a book&emoji=📚&slug=ryvn&button_colour=40DCA5&font_colour=ffffff&font_family=Bree&outline_colour=000000&coffee_colour=FFDD00" /></a>
 
-
-- 👋 Hi, I’m @hc-psy (Hao-Cheng Ollie Lo)
-- 👀 I’m interested in machine learning
-- 🌱 I’m currently learning ![GO](https://img.shields.io/badge/-Go-F8EBD8?logo=Go)
-- 💞️ I’m looking to collaborate on any machine learning application (NLP or CV)!
+- 👋 Hi, I’m @hc-psy (Hao-Cheng Ryvn Lo)
+- 👀 I’m interested in Computer Vision / 3D / Machine Learning / Frontend
+- 🌱 I’m currently learning ![Rust](https://img.shields.io/badge/-RUST-F8EBD8?logo=rust)
+- 💞️ I’m looking to collaborate on any aforementioned projects!
 - 📫 How to reach me: austenpsy@gmail.com
 - 🛡️ Avid reader, fantasy and Sci-Fi geek
-- 🔬 Solid backgroud in Psychological Science, Statistics, and Computer Science
-- 💚 Mental health awareness!
-- 🐉 Change the world!
+- 🔬 Solid backgroud in Computer Science, Psychological Science, and Statistics,
 
 <!---
 hc-psy/hc-psy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
