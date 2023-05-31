@@ -12,7 +12,7 @@
 - 🛡️ Avid reader, fantasy and Sci-Fi geek
 - 🔬 Solid backgroud in Computer Science, Psychological Science, and Statistics,
 
-<a href="https://www.buymeacoffee.com/ryvn"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a book&emoji=📚&slug=ryvn&button_colour=40DCA5&font_colour=ffffff&font_family=Bree&outline_colour=000000&coffee_colour=FFDD00" /></a>
+<a href="https://www.buymeacoffee.com/ryvn"><img width="200px" height="50px" src="https://img.buymeacoffee.com/button-api/?text=Buy me a book&emoji=📚&slug=ryvn&button_colour=555555&font_colour=ffffff&font_family=Bree&outline_colour=000000&coffee_colour=FFDD00" /></a>
 
 <!---
 hc-psy/hc-psy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
